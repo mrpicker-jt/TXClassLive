@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.imsdk:mobilepbforimsdk:1.6.0.45@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/349ec1fc3cfa327153100de4d4f4173f995fabb8/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/349ec1fc3cfa327153100de4d4f4173f995fabb8/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/349ec1fc3cfa327153100de4d4f4173f995fabb8/output/jars/libs/mobilepb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

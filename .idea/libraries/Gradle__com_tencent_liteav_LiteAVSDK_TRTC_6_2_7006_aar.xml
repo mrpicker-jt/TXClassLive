@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tencent.liteav:LiteAVSDK_TRTC:6.2.7006@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/469c06305d6043a9d9999954f247e963d274caaf/output/jars/libs/LiteAVSDK_TRTC-6.2.7006.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/469c06305d6043a9d9999954f247e963d274caaf/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/469c06305d6043a9d9999954f247e963d274caaf/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

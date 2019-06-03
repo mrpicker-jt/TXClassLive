@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: :TEduBoardSdk-release:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/d23dd1a3ce515841a9119a8e89deb6627300f075/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/d23dd1a3ce515841a9119a8e89deb6627300f075/output/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/d23dd1a3ce515841a9119a8e89deb6627300f075/output/jars/libs/tbs_sdk_thirdapp_v4.3.0.1020_43633_sharewithdownload_withoutGame_obfs_20190111_105200.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

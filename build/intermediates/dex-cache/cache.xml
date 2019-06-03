@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.1\207a6efae6a3555e326de41f76bdadd9a239cbce\common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="207a6efae6a3555e326de41f76bdadd9a239cbce">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\common-1.1.1_a868fc5e7e06570998ca2ddc0bf65662b92cbe05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\okio-1.13.0_4fda5730937ffc19db78ba3dfc7fa60fc38e23e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\0b13215dccc66ba0b82e29e3b4e16f551c4d9771\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="925ec89d545e33030131b9470db85e701a8c61a4">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_c4861fc6ec4fcd9437e6f253b1e28068c15a8700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.gradle\caches\modules-2\files-2.1\com.android.support\collections\28.0.0\c1bcdade4d3cc2836130424a3f3e4182c666a745\collections-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c1bcdade4d3cc2836130424a3f3e4182c666a745">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\collections-28.0.0_686748d571e0af495e1850ce734c173fd461950f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\945d78898af1cf6b79b44a6395e2a93baa1bdeff\output\jars\libs\tbs_sdk_thirdapp_v4.3.0.1020_43633_sharewithdownload_withoutGame_obfs_20190111_105200.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e8751bf0c86e47850ff95d3a836c7a1f0c6fcb0e">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\tbs_sdk_thirdapp_v4.3.0.1020_43633_sharewithdownload_withoutGame_obfs_20190111_105200_73030fa5cbb256bc57f5c428755c70421cffa1de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\0af34ac1d195628558c5779599bc6c2c92e64614\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="fad505737146925636e28753e26523c3a8a03e48">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_6c1199acfa282abdea2bd9a8b0d96cd028212be0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\fcc5b6b83d56867f4ef5db42a977badba323f58a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="7b15ada2209f82b0249f331cb7ec70394dc2e828">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_3709a995e0b33053b4b1cf858b8b5caf90a11afc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\0b60808d40b68fc5a46c477a0d1c2e206f559947\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b9aff7eec7a0b091e460e44b8bb0bf64cadc0844">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_697bb16a5a910e74e956fcc86fa000a59cac7f1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\10bdc47bcee06554bfdbe9664de91dcc49fa5e3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="70bf65523dc3db43f6c3749931976585a8f4dd20">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_3b585640d52b5cbdee4df33a7e9d414cef10d03c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\d5c02a0ec84d20fae26fabb066b6b7c052949ff7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9a5b0d413d37780851d1764088cb94f72521d5fc">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_aaa2eb9f510c514db1db129f1335e8017ffad81d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\349ec1fc3cfa327153100de4d4f4173f995fabb8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="724b5012c9c7bf404d1111066c45c9d9250f053f">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_1d62204ba748c4cbbffdfdaa826500d6d97f23e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\5a16fb19ef37ea718a73b8b5f1f5ff990112e3ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="de467de1baba33a922246561f87c0a910206d1ff">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_b92f2374f1f9dbff7df57e363690889c86bb7ad3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\af522a984dd937fb6ee4487eccc81d81ef34a424\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ddfc0d219f43bf3c1e357a55284cbd1000e461bf">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_dc5cce0dd07d2cbf40aa96b133c31983b71d1de7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\058da22cdcb4d086a65dddd0bb6b0ac14d030f05\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_a2460757fd067c366f76b9445c5dddd22075c5c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\d87d05c23fb01eb830e66c6f8f03e48876ea9be3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e9b03dd36d3c106574e2cdeb8edd543bd5e51d0e">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_5d75a73c86e5bedc26663a5d26dc110cbea6a974.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\945d78898af1cf6b79b44a6395e2a93baa1bdeff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="7ff763e7319ca6a21f41e88fb658763193d6eef5">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_ba9255e8e3aeddf6f23136110023205f4b6fd782.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.1\e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95\common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\common-1.1.1_b55cff5876083760356987de60285b58a2d2742f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\b0d9093f7767435b207cab1e86148681d1457d23\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="be31b531309a9196873ba4ac96ea9484ca0ecad6">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_6ce9509c57b88f9b9921c5db5575563164db5e6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\349ec1fc3cfa327153100de4d4f4173f995fabb8\output\jars\libs\mobilepb.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="12db2628b7d6bcc9bb7632941f499bf860c503a4">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\mobilepb_89998e72fff5a74caf1b4906ae5fc1178b3b8df6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\469c06305d6043a9d9999954f247e963d274caaf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="100bfb04869c4750af1dabbab8d8f6026ff08005">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_b79de295466b7a56199093e035c553a120498288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\c5c5c581663ae09edb73e95cb7f89dee4080c8f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="49b8af59d5819c80792707bdda93a5c9a917e24c">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_0b1403916c31359e593063fdc3387ff7a4b8dba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\9936944a09ad11d47c01f0431b35a3f0adfca213\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="5b049b5525643f62ebe162013dae975c7e74dcc5">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_4cc853f14025bddf22e9f80ad6bdd73c188fdd3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\f16be6af2c0b697e3fd2bd76aba7f737f502afae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b05ce31f5d87a7f16cdbdbc5e3a7cf2190bf0118">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_a4ee752604f2985a7d67b914d84199b1b41fd72c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\6bd060f5833f34b260b421649b04a80c75f9df0b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="41b8c7e99024d4288d7dfc709bb72fdaa5fdc32f">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_2b8677a65a906e534b5a6fa12f356380e164e22a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\c16dca5a59ab2b683d64b044b0bde1706ea410f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ba4c894fd0a3d36e8f06f4947ab639140e668088">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_11b65b9fb9a5ad0d121fca2dace4ce5739810dec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\329424300ffc531fe7a99a506096cc004350c0d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b99e6cdcb85894164e1a06145a5f6b78e3cb7270">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_bfb5a312abe909ea24214ab7f37c46947ca14866.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\96b2ccb7c4a62c7af0ba3070337d06621b7fef65\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="19e63f5c3afd0a4379bfb830816bb8a9661aba75">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_f24e94d6eabaa565e368935ecc4ca601f7f8e775.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\a5496e1d3ee2aa4b721a6717c32c04d8688cc687\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f77c6cfaee7ee7c8844d5340e47a38c3fdea7060">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_20e958568602dc8f97daccdf9c4d0d6347b5cb3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\469c06305d6043a9d9999954f247e963d274caaf\output\jars\libs\LiteAVSDK_TRTC-6.2.7006.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="70861854f961f904ed56837ee6724ebae30be739">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\LiteAVSDK_TRTC-6.2.7006_1ca8fae66244971b067c02e4ba51958dc0488e0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\2ddbb847d651311a5634b7fa2824a79031f21de0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2e85417e7990657be8fe07d63fd5278d82eb960e">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_6e46da3915a96f5a87e8988880b5a354cc57afb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\28.0.0\ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8\support-annotations-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\support-annotations-28.0.0_86f15275071fcb77df3b7b0e2eed4f0aaf14a380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\f3f4b4ae4f18f987be4383a9c95a9f99edd5b48c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_0cf97ad6187be76bc95f3cccd155218526c4c7df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\c371919852b13095b37aa34788200bbab00d0f32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_5ce41c71f215ed7680ee79cd9963557ce37fb112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.8.1\feab46062803513d6a8307c74b0084265855de1a\logging-interceptor-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="feab46062803513d6a8307c74b0084265855de1a">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.8.1_6db3fbe0108d0c3c13fb65542b0e6b1537cc0e0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\5f18828783f248aa94bdba0f991242e6145bb577\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a6d4c3181151ffbcd67897e94c688f6c200c5bec">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_ece0cfa35dfdc55c40bd5240143b1b4ad6b8b491.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\302ce19be699ec676f5f5c73d46274e95497f5cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9335f203759bfcda4b6ea729dddcf06c07150d3f">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_e40d0a6a6e4198dfb3600a502102fe7dca87fc84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\72ea8d10ca4a8ca44afce9025907d85adb83fdd6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="376a25a3bdce5133262368e85d430aae5bb80c28">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_c84d16513a27230ff29cb082777d256e688d86ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.8.1\4d060ca3190df0eda4dc13415532a12e15ca5f11\okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\okhttp-3.8.1_d23d713dc8df725f0a884bf8ed0675d81293baf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\29d8d7066cd8419626faec67d7425deeeefe486c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="8510837b7e70ee5f12cf2a20dd0a1b3d23a0cdeb">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_61ebc4b5c5e71e0f81aaaf8a2e6b438ed259cdad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TTLX\.android\build-cache\7d56ab4b6a305902467d3fea9bdc58aa082d0e5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="234e706c7aea09f97738c7830d144d50d240079e">
+        <dex dex="E:\WorkCode\AndroidTLC\Demo\app\build\intermediates\pre-dexed\debug\classes_f7df7d739293b1780f1c7aac483d70c3ee70db69.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:viewpager:28.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/b0d9093f7767435b207cab1e86148681d1457d23/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/b0d9093f7767435b207cab1e86148681d1457d23/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
