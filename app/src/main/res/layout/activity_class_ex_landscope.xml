@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <!-- TRTC -->
+        <com.tencent.ticsdk.trtcdemo.activities.TICVideoLandScopeView
+            android:id="@+id/trtc_root_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <FrameLayout
+            android:id="@+id/center_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="120dp"
+            android:layout_marginRight="120dp">
+            <!-- Board -->
+            <FrameLayout
+                android:id="@+id/board_view_container"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <com.tencent.rtmp.ui.TXCloudVideoView
+                android:id="@+id/main_videoView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </FrameLayout>
+
+
+        <!-- Message -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:id="@+id/ll_message_input"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_gravity="bottom"
+                android:background="@color/msg_bg_color"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/et_message_input"
+                    android:layout_width="0dp"
+                    android:layout_height="34dp"
+                    android:layout_marginLeft="@dimen/default_horizontal_margin"
+                    android:layout_marginRight="@dimen/default_horizontal_margin"
+                    android:layout_marginBottom="@dimen/input_textbox_margin_bottom"
+                    android:layout_weight="4"
+                    android:background="@color/colorWhite"
+                    android:focusableInTouchMode="false"
+                    android:gravity="center_vertical|left"
+                    android:imeOptions="actionSend"
+                    android:paddingLeft="@dimen/text_box_horizontal_padding"
+                    android:paddingRight="@dimen/text_box_horizontal_padding"
+                    android:singleLine="true"
+                    android:text="Test Message on Android"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="@dimen/small_text_size" />
+
+                <Button
+                    android:id="@+id/btn_send"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="send" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tv_log"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@id/ll_message_input"
+                android:background="@color/colorGray"
+                android:gravity="bottom"
+                android:maxLines="13"
+                android:scrollbars="vertical"
+                android:singleLine="false" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="120dp"
+        android:layout_marginRight="120dp"
+        android:background="@android:color/transparent"
+        android:fitsSystemWindows="true">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_double_room_back_button"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_gravity="left|center_vertical"
+                android:gravity="center"
+                android:text="退出"
+                android:textColor="@color/colorBackHover"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/tv_memu"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_gravity="right"
+                android:layout_marginLeft="10dp"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="菜单"
+                android:textColor="@color/colorBackHover"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/tv_upWall"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_gravity="right"
+                android:layout_marginLeft="10dp"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="上墙"
+                android:textColor="@color/colorBackHover"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/tv_ppt"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_gravity="right"
+                android:layout_marginLeft="10dp"
+                android:gravity="center"
+                android:singleLine="true"
+                android:text="资源"
+                android:textColor="@color/colorBackHover"
+                android:textSize="20dp" />
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/tv_room_id"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:singleLine="true"
+            android:text="899"
+            android:textColor="@color/colorBackHover"
+            android:textSize="24dp" />
+
+
+    </RelativeLayout>
+
+</FrameLayout>

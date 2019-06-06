@@ -14,7 +14,7 @@
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:name="com.tencent.ticsdk.trtcdemo.TICSDKDemoApp"
@@ -43,7 +43,12 @@
         <activity
             android:name="com.tencent.ticsdk.trtcdemo.activities.TICClassMainActivity"
             android:launchMode="singleTop"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".activities.TICClassMainLandScopeActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="landscape" />
 
     </application>
 
